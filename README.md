@@ -6,8 +6,7 @@ This project is a web scraping and data visualization program. The goal of this 
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
-
-
+![image](https://github.com/carab9/web-scraping/blob/main/architecture.png?raw=true)
 
 The UI layer consists of the UI and Graph classes. The Graph Class creates and displays  the pie graphs. The UI class creates the interface that the user interacts with: the main window.
 
@@ -27,6 +26,6 @@ urllib and BeautifulSoup for web scraping, pandas dataframe for data processing,
 
 ## Results
 
-
+![image](https://github.com/carab9/web-scraping/blob/main/web_scraping_pie_chart.png?raw=true)
 
 This pie chart shows what percentage of the world total of CO2 emissions that the top 10 countries each emit.
