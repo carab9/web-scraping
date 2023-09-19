@@ -1,6 +1,6 @@
 # web-scraping
 
-This project is a web scraping and data visualization program. The goal of this project is to extract data of the top 10 countries’ emissions in 2017 and display them in a pie graph. The data is first scraped from a Wikipedia page called "List of countries by carbon dioxide emissions". The program parses and processes the data, stores it into the database, and then retrieves the data from the database and graphs it.
+This project is a web scraping and data visualization program. The goal of this project is to extract data of the top 10 countries’ emissions in 2017 and display them in a pie graph. The data is first scraped from a Wikipedia page called ["List of countries by carbon dioxide emissions"](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions). The program parses and processes the data, stores it into the database, and then retrieves the data from the database and graphs it.
 
 ## Architecture
 
