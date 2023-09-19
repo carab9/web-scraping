@@ -26,6 +26,7 @@ urllib and BeautifulSoup for web scraping, pandas dataframe for data processing,
 
 ## Results
 
+This pie chart shows what percentage of the world total of CO2 emissions that the top 10 countries each emit.
+
 ![image](https://github.com/carab9/web-scraping/blob/main/web_scraping_pie_chart.png?raw=true)
 
-This pie chart shows what percentage of the world total of CO2 emissions that the top 10 countries each emit.
